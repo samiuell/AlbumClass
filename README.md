@@ -1,11 +1,13 @@
-Name: Sam Gupta 
+# Purpose         
+This program was created for Assignment 1 of MSE 240. Its purpose was to practice and develop skills in object oriented design as well as unit testing.
+Code for the class can be found in the album folder. 
+Code for the unit tests can be found in the test folder, seperated into constructor tests, accessor tests, and mutator tests.   
+
+Name: Sam Gupta   
 
 Email: s76gupta@uwaterloo.ca
 
 This program tests and creates an Album class. An object of this class represents a musical album to be purchased as a vinyl on an online shop. The fields of this class include a name, artist, price, colour, tracklist, number of tracks, total duration and whether or not it is an EP. Methods within the class allow the user to display the track list, alter the tracks, change the price, get the total duration in either minutes or seconds, and more. 
-
-# Purpose
-This program was created for assignment 1 of MSE 240. Its purpose was to practice and develop skills in object oriented design as well as unit testing.
 
 # Class Description
 
